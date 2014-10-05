@@ -1,0 +1,6 @@
+CachedCalendarTask:
+  cache_future_years: 2
+Calendar:
+  jquery_included: true
+  timezone: Pacific/Auckland
+  language: EN
