@@ -1,7 +1,7 @@
 <header class="header" role="banner">
     <div class="header-content-top">
         <div class="inner">
-            <div class="unit size4of4 lastUnit">
+            <div class="unit size1of1 lastUnit">
                 <div class='header-counter'>
                     <ul>
                         <li><span class='counter-number'>106</span><br/>Events</li>
@@ -14,10 +14,10 @@
     </div>
     <div class="header-content-bottom">
         <div class='inner'>
-            <div class="lyw-logo unit size1of4">
+            <div class="lyw-logo unit size1of3">
                 <a href="$BaseHref" rel="home"><img src='$ThemeDir/images/lyw/lyw-logo.png'></a>
             </div>
-            <div class="unit size3of4 lastUnit">
+            <div class="unit size2of3 lastUnit">
                 <div class="navigation-bar">
                     <% include Navigation %>
                 </div>
